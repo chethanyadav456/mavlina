@@ -36,3 +36,32 @@ npm install mavlina
 yarn add mavlina
 pnpm add mavlina
 ```
+
+## Example
+```js
+const Mavlina = require("mavlina")
+
+
+async function call() {
+    const mavlina = new Mavlina()
+    
+    const facts = await mavlina.facts()
+    console.log(facts)
+    
+    const wyr = await mavlina.wyr()
+    console.log(wyr)
+
+    const truth = await mavlina.truth("normal")
+    console.log(truth)
+    
+    const dare = await mavlina.dare()
+    console.log(dare)
+
+    const randomtnd = await mavlina.randomtnd("normal")
+    console.log(randomtnd)
+
+    const nhie = await mavlina.nhei("nsfw")
+    console.log(nhie)
+}
+call()
+```
