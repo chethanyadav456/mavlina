@@ -1,7 +1,7 @@
 <div align="center">
 	<br/>
 	<p>
-    <a href="https://mavlina.org"><img src="https://mavlina.org/static/logo.svg" width="546" alt="Mavlina" /></a>
+    <a href="https://mavlina-api.sazgal.repl.co/"><img src="https://images-ext-1.discordapp.net/external/RUpxoXQFufqZ1zj-7k1dwBW10DlyOxfmUAdlNMnHTQc/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/893227445489127444/4a38b1d21fa9fe04fcb9b467ab5dfbcd.png?width=498&height=498" width="546" alt="Mavlina" /></a>
     </p>
     <br/>
     
